@@ -1,4 +1,4 @@
-# Projrct-Crash
+# Project-Crash
 •	Reading a csv file as DataFrame
 •	Removing missing values
 •	A function to find the number of observations for unique value in a column of a DataFrame
